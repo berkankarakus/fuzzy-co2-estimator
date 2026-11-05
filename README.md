@@ -45,7 +45,7 @@ python -m pip install --upgrade scikit-fuzzy numpy matplotlib jupyter
 ### Run the notebook
 
 ```bash
-jupyter notebook Fuzzy_Logic_System.ipynb
+jupyter notebook fuzzy_co2_estimation.ipynb
 ```
 
 Run the cells in order. The notebook prints the sampled input values and the
@@ -55,7 +55,7 @@ defuzzified CO₂ estimate, while also rendering the membership and result plots
 
 ```text
 .
-├── Fuzzy_Logic_System.ipynb  # Model, rule base, visualizations, and result
+├── fuzzy_co2_estimation.ipynb  # Model, rule base, visualizations, and result
 └── README.md                 # Project documentation
 ```
 
